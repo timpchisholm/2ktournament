@@ -1,0 +1,64 @@
+
+
+header {
+	font-family: arial-black, sans-serif;
+	font-weight: bolder;
+	font-size: 60px;
+    letter-spacing: -4px;
+}
+
+.sidebar {
+	height: 1000px;
+	margin: 10px;
+	border-top: solid;
+	border-right: solid;
+	border-color: black;
+	border-width: 1px;
+	padding: 5px;
+	float: left;
+}
+
+p {
+	font-family: helvetica, sans-serif;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+article ul li {
+	font-family: helvetica, sans-serif;
+}
+
+h1 {
+	font-family: arial-black, sans-serif;
+	font-weight: bolder;
+	font-size: 30px;
+	letter-spacing: -2px;
+	text-align: center;
+}
+
+.backcourt:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.conley {
+	float: left;
+}
+
+h3 {
+	font-family: arial-black, sans-serif;
+}
+
+.celtics {
+	    color: green;
+}
+
+.bench {
+	margin: 8px;
+	float: left;
+}
